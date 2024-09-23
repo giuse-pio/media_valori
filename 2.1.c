@@ -4,9 +4,9 @@ int main() {
     float a;
     float b;
     float media;
-    printf("inserisci un numbero: ");
+    printf("inserisci il primo numero: ");
     scanf("%f", &a);
-    printf("inserisci un numero: ");
+    printf("inserisci il secondo numero: ");
     scanf("%f", &b);
     media = (a + b)/2;
     printf("media = %f", media);
